@@ -78,7 +78,7 @@
   - Introduction to Arrays: Creating, Accessing, Modifying Arrays
   - Array Methods: `push()`, `pop()`, `map()`, `filter()`, `reduce()`
 
-  ---
+---
 
 ### **Weeks 9-10: Intermediate JavaScript**
 - **Week 9: Objects and Prototypes**
@@ -92,7 +92,7 @@
   - Async/Await Syntax
   - Handling Asynchronous Operations with Fetch API and `try-catch`
 
-  ---
+---
 
 ### **Weeks 11: DOM Manipulation**
 - **Week 11: Document Object Model (DOM)**
@@ -101,7 +101,7 @@
   - Event Handling: `addEventListener`, Event Types (Click, Hover, Key Events)
   - Building Interactive Web Pages with Dynamic Content
 
-  ---
+---
 
 ### **Weeks 12-13: JavaScript ES6+ Features**
 - **Week 12-13: Modern JavaScript (ES6+)**
@@ -114,7 +114,7 @@
   - Consuming RESTful APIs with Fetch and Axios
   - Handling API Responses: JSON Status Codes
 
-  ---
+---
 
 ### **Optional Week 14 Project and Review**
 - **Week 14: Final Project and Best Practices**
@@ -123,9 +123,9 @@
   - Code Refactoring and Optimization
   - Final Review: Code Best Practices, Performance Optimization
 
-  ---
+---
 
-  ### **Week 15-16: Fundamentals of React**
+### **Week 15-16: Fundamentals of React**
 - **Setting up the React Environment**:
   - Using `create-react-app` to scaffold a new project
   - Overview of React project structure
